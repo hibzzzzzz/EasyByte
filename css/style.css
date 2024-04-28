@@ -37,11 +37,22 @@ nav {
   transition: 1s;
 }
 
-nav img {
+.logo {
   width: 180px;
   animation: wiggle 10s infinite;
   margin-left: 10px;
 }
+
+.basket {
+  width: 40px;
+  height: 40px;
+  animation: wiggle 7s infinite;
+  position: absolute;
+  top: 20px;
+  right: 5px;
+  margin-top: 10px;
+}
+
 
 @keyframes wiggle {
   1% {transform: rotate(5deg);}
