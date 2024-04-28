@@ -44,12 +44,12 @@ nav {
 }
 
 .basket {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   animation: wiggle 7s infinite;
   position: absolute;
-  top: 20px;
-  right: 5px;
+  top: 26px;
+  right: 27px;
   margin-top: 10px;
 }
 
@@ -69,10 +69,10 @@ nav {
 
 #burger-toggle {
   position: absolute;
-  top: 33px;
-  right: 25px;
+  top: 44px;
+  right: 95px;
   width: 35px;
-  height: 25px;
+  height: 32px;
   display: none;
   outline: none;
   z-index: 2;
@@ -80,8 +80,8 @@ nav {
 
 #burger {
   position: absolute;
-  top: 33px;
-  right: 25px;
+  top: 50px;
+  right: 95px;
   width: 35px;
   height: 25px;
   display: none;
@@ -103,7 +103,7 @@ nav {
 nav ul {
   position: absolute;
   top: 37px;
-  right: 0;
+  right: 75px;
   padding: 1% 0;
   text-align: right;
   display: flex;
