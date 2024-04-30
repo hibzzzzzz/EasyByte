@@ -9,7 +9,7 @@
 
   toggle.addEventListener('change', function () {
     if (toggle.checked) {
-      navbarStyle.backgroundColor = '#A1C398';
+      navbarStyle.backgroundColor = 'rgb(235, 217, 180)';
       navbarStyle.backgroundImage = 'url(../images/edge-skew.png)';
     } else {
       navbarStyle.backgroundColor = 'transparent';

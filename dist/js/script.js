@@ -15,10 +15,10 @@
       navbarStyle.backgroundColor = 'transparent';
       navbarStyle.backgroundImage = 'none';
     } else if ((window.pageYOffset > 0 || toggle.checked) && atMiddle) {
-      navbarStyle.backgroundColor = '#EBD9B4';
+      navbarStyle.backgroundColor = 'rgb(235, 217, 180)';
       navbarStyle.backgroundImage = 'url(./images/edge-skew.png)';
     } else if (!atMiddle) {
-      navbarStyle.backgroundColor = '#EBD9B4';
+      navbarStyle.backgroundColor = 'rgb(235, 217, 180)';
       navbarStyle.backgroundImage = 'url(./images/edge-skew.png)';
     }
   };
