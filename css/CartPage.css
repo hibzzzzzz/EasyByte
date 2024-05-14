@@ -465,6 +465,7 @@
   margin-right: 3px;
   width: 82px;
   height: 68px;
+  border: 1px solid #000000;
 }
 
 .CartPage .ellipse-1 {
@@ -698,6 +699,7 @@
 
 .CartPage .container-4 {
   overflow-wrap: break-word;
+  border: 1px solid #000000;
   font-family: 'Inika';
   font-weight: 400;
   font-size: 17px;
