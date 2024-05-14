@@ -157,7 +157,7 @@
   font-family: 'Inika';
   font-weight: 400;
   font-size: 17px;
-  color: #6E6969;
+  color: #000000;
 }
 .MenuPage .bla-bla-bal-4 {
   margin-bottom: 8px;
@@ -175,7 +175,7 @@
   font-family: 'Inika';
   font-weight: 400;
   font-size: 17px;
-  color: #6E6969;
+  color: #000000;
 }
 .MenuPage .bla-bla-bal-5 {
   margin: 3px 0 5px 0;
@@ -196,7 +196,7 @@
   color: #6E6969;
 }
 .MenuPage .container-7 {
-  margin: 0 25px 33px 24px;
+  margin: 0 25px 23px 24px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -206,12 +206,15 @@
 
 
 .container-88 {
+  
     display: flex;
+    justify-content: space-between;
+  width: 1093.6px;
     flex-direction: row; /* Arrange items horizontally */
 }
 
 .menu-list {
-  margin: 0 25px 33px 24px;
+  margin: 0 25px 23px 4px;
 
     list-style-type: none;
     display: flex;
@@ -228,7 +231,7 @@
 }
 
 .dish{
-    margin-right: 10px; /* Adjust spacing between dish and price */
+    margin-right: 150px; /* Adjust spacing between dish and price */
 }
 
 .MenuPage .rectangle-7 {
