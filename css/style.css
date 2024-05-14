@@ -122,10 +122,7 @@ nav ul a {
   margin: 25px;
 }
 
-nav ul a:hover, #active {
-  background-color: #b08d6b;
-  border-radius: 10px;
-}
+
 
 #main {
   width: 100%;
