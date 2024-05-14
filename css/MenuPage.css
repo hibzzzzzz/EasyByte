@@ -223,6 +223,28 @@
     width: 1093.6px;
     box-sizing: border-box;/* Arrange items horizontally */
 }
+div.menu {
+  background-color: #f8f1e7; /* Light beige background */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 40px 2px;
+  width: 600px;
+  cursor: pointer;
+  border-radius: 42px; /* Rounded corners */
+  font-family: 'Elegant Font'; /* Custom font */
+  text-shadow: 2px 2px 4px #000000; /* Text shadow */
+  line-height: 70px; /* Adjust this value based on the height of your container */
+}
+
+/* Add a hover effect for the button */
+div.menu:hover {
+  background-color: #c9ac92; /* Slightly darker shade for hover */
+}
+
 
 .menu-list li {
   list-style-type: none;
