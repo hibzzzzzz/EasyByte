@@ -224,7 +224,7 @@
     box-sizing: border-box;/* Arrange items horizontally */
 }
 div.menu {
-  background-color: #f8f1e7; /* Light beige background */
+  background-color: #d1caa4; /* Light beige background */
   border: none;
   color: black;
   padding: 15px 32px;
@@ -240,9 +240,7 @@ div.menu {
 }
 
 /* Add a hover effect for the button */
-div.menu:hover {
-  background-color: #d1caa4; /* Slightly darker shade for hover */
-}
+
 
 
 .menu-list li {
