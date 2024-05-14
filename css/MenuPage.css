@@ -136,7 +136,7 @@
   height: 213px;
 }
 .MenuPage .container-2 {
-  margin-bottom: 2px;
+  margin-bottom: 12px;
   display: flex;
   flex-direction: row;
   width: 1142px;
@@ -211,9 +211,11 @@
 }
 
 .menu-list {
+  margin: 0 25px 33px 24px;
+
     list-style-type: none;
     display: flex;
-    flex-direction: row; 
+    flex-direction: row;
     justify-content: space-between;
     width: 1093.6px;
     box-sizing: border-box;/* Arrange items horizontally */
@@ -253,7 +255,7 @@
   height: 213px;
 }
 .MenuPage .container-5 {
-  margin-bottom: 37px;
+  margin-bottom: 12px;
   display: flex;
   flex-direction: row;
   width: 1142px;
@@ -286,6 +288,7 @@
   height: 213px;
 }
 .MenuPage .container-4 {
+  margin-bottom: 12px;
   display: flex;
   flex-direction: row;
   width: 1142px;
