@@ -4,8 +4,7 @@
   font-weight: 1000;
   font-size: 70px;
   color: #000000;
-  padding-left: 300px;
-}
+  padding: 32px 69px 80px 469px;}
 .MenuPage .container-3 {
   position: relative;
   margin: 0 0 59px 16px;
@@ -197,7 +196,7 @@
   color: #6E6969;
 }
 .MenuPage .container-7 {
-  margin: 0 22.4px 3px 10px;
+  margin: 0 25px 33px 24px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -205,6 +204,30 @@
   box-sizing: border-box;
 }
 
+
+.container-88 {
+    display: flex;
+    flex-direction: row; /* Arrange items horizontally */
+}
+
+.menu-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    width: 1093.6px;
+    box-sizing: border-box;/* Arrange items horizontally */
+}
+
+.menu-list li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row; /* Adjust spacing between items */
+}
+
+.dish{
+    margin-right: 10px; /* Adjust spacing between dish and price */
+}
 
 .MenuPage .rectangle-7 {
   border-radius: 17px;
@@ -270,10 +293,9 @@
 }
 .MenuPage {
   background: #E9D7C6;
-  display: flex;
-  flex-direction: column;
+  
   align-items: center;
-  padding: 32px 69px 0 69px;
+  padding: 32px 69px 20px 53px;
   width: 1280px;
   box-sizing: border-box;
 }
