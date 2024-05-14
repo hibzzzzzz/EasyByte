@@ -16,7 +16,7 @@
 }
 .MenuPage .rectangle-9 {
   border-radius: 17px;
-  background: url('../images/im1.jpg') 50% / cover no-repeat;
+  background: url('../images/easybyte/im1.jpg') 50% / cover no-repeat;
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
   width: 361px;
   height: 213px;
@@ -33,7 +33,7 @@
 }
 .MenuPage .rectangle-1 {
   border-radius: 17px;
-  background: url('../images/im5.jpg') 50% / cover no-repeat;
+  background: url('../images/easybyte/im5.jpg') 50% / cover no-repeat;
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
   margin-right: 22px;
   width: 361px;
@@ -41,7 +41,7 @@
 }
 .MenuPage .rectangle-10 {
   border-radius: 17px;
-  background: url('../images/im01.jpg') 50% / cover no-repeat;
+  background: url('../images/easybyte/im01.jpg') 50% / cover no-repeat;
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
   width: 361px;
   height: 213px;
