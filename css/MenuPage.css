@@ -228,7 +228,6 @@ div.menu {
   border: none;
   color: black;
   padding: 15px 32px;
-  text-align: center;
   text-decoration: none;
   font-size: 16px;
   margin: 40px 2px;
@@ -242,7 +241,7 @@ div.menu {
 
 /* Add a hover effect for the button */
 div.menu:hover {
-  background-color: #c9ac92; /* Slightly darker shade for hover */
+  background-color: #d1caa4; /* Slightly darker shade for hover */
 }
 
 
